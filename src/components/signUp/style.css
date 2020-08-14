@@ -1,0 +1,33 @@
+.form-signIn{
+  padding-top: 10rem;
+  display: flex;
+  flex-direction:column;
+  max-width: 400px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.form-signIn__input{
+  margin-top: 15px;
+}
+
+.form-signIn__select {
+  margin-top: 15px;  
+}
+
+.form-signIn__isregistered {
+  margin-bottom: 20px;
+}
+
+.label {
+  position: relative;
+  margin-top: 10px;
+}
+
+.text-danger {
+  font-size: 13px;
+  color:rgb(219, 91, 91);
+  position: absolute;
+  left: 10px;
+  top: 80px;
+}

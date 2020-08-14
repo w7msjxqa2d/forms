@@ -1,0 +1,20 @@
+.form-signUp{
+  padding-top: 10rem;
+  display: flex;
+  flex-direction:column;
+  max-width: 400px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.form-signUp__input{
+  margin-top: 15px;
+}
+
+.form-signUp__select {
+  margin-top: 15px;  
+}
+
+.form-signIn__isregistered {
+  margin-bottom: 20px;
+}
